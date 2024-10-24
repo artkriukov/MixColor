@@ -25,6 +25,8 @@ final class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         colorView.layer.cornerRadius = 20
+        
+        updateLabels()
     }
     
     
