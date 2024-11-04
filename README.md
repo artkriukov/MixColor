@@ -1,5 +1,6 @@
 # MixColor
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-04 at 18 42 41](https://github.com/user-attachments/assets/e64183b5-3200-4f29-9e48-96d92dc1be63)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-04 at 18 42 41](https://github.com/user-attachments/assets/b4f71889-4625-45fb-b93f-c9e660764218)
+<img src="(https://github.com/user-attachments/assets/b4f71889-4625-45fb-b93f-c9e660764218)" alt="Скриншот приложения" width="300" />
 
 ## Цель проекта
 Данный проект предназначен для тренировки взаимодействия с элементами Storyboard и изучения верстки в iOS-приложениях. 
